@@ -1,0 +1,4 @@
+site_name: Documentación calculadora Tkinter
+site_url: https://actividad3-calculadoratkinter.com
+nav:
+  - Home: index.md
