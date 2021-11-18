@@ -72,3 +72,4 @@ if len(df.columns) == 12:  # Comprobación de que hay 12 columnas (1 por mes)
     print("La media de gastos del año es:", media(gasto_meses))
     print("El gasto total del año es:", sum(gasto_meses))
     print("Los ingresos totales del año son:", sum(ingreso_meses))
+# prueba para pull
